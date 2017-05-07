@@ -3,7 +3,7 @@
   "short_name": "DevHub",
   "description": "Tweetdeck for GitHub",
   "lang": "en-US",
-  "start_url": "./",
+  "start_url": "https://brunolemos.github.io/devhub/",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#49d3b4",
